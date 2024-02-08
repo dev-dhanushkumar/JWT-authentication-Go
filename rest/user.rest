@@ -1,0 +1,5 @@
+Host: localhost:8080
+
+POST http://localhost:8080/api/secured/ping HTTP/1.1
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRoYW51c2hrdW1hcjAzMDRAZ21haWwuY29tIiwidXNlcm5hbWUiOiIxMjM0NTY3ODkwIiwiZXhwIjoxNzAyODAwODI5fQzPtbNZkHUtV7tHDUDXc76RwO3EhNATCPDvkfZNIce2E
